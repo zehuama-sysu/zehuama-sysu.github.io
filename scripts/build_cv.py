@@ -29,7 +29,7 @@ def footer(canvas,doc):
  canvas.setFont('Helvetica',7.5);canvas.setFillColor(MUTED)
  canvas.drawString(45,25,'Zehua Ma | mazh58@mail2.sysu.edu.cn | Updated October 2026')
  canvas.drawRightString(A4[0]-45,25,str(doc.page))
-story=[p('Zehua Ma','NameCustom'),p('Generative AI | 3D Vision | Video Reasoning','SubCustom'),p('<link href="mailto:mazh58@mail2.sysu.edu.cn" color="#355f7a">mazh58@mail2.sysu.edu.cn</link>  |  <link href="https://smazehua.github.io/" color="#355f7a">smazehua.github.io</link>  |  <link href="https://github.com/smazehua" color="#355f7a">github.com/smazehua</link>','SubCustom')]
+story=[p('Zehua Ma','NameCustom'),p('Generative AI | 3D Vision | Video Reasoning','SubCustom'),p('<link href="mailto:mazh58@mail2.sysu.edu.cn" color="#355f7a">mazh58@mail2.sysu.edu.cn</link>  |  <link href="https://zehuama-sysu.github.io/" color="#355f7a">zehuama-sysu.github.io</link>  |  <link href="https://github.com/zehuama-sysu" color="#355f7a">github.com/zehuama-sysu</link>','SubCustom')]
 section('Research interests')
 story.append(p('Personalized generation, 3D generation and reconstruction, and video generation for visual reasoning. My work focuses on identity-preserving synthesis, faithful 3D geometry and textures, and task-relevant latent state trajectories for logically consistent video generation.'))
 section('Education')

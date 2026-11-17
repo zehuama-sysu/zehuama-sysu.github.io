@@ -1,6 +1,6 @@
 # Zehua Ma · Academic Homepage
 
-个人学术主页，适用于 GitHub Pages：**https://smazehua.github.io/**。
+个人学术主页，适用于 GitHub Pages：**https://zehuama-sysu.github.io/**。
 
 参考 [Zhenyu Xie 的个人主页](https://xiezhy6.github.io/) 的简洁学术排版，独立实现；内容来自本人简历与论文原文。纯 HTML / CSS / JavaScript，无构建依赖、无分析追踪、无第三方字体。
 
@@ -25,7 +25,7 @@ python3 -m http.server 8080
 
 ## GitHub Pages
 
-仓库名为 `smazehua.github.io`，默认分支为 `main`。GitHub 仓库 **Settings → Pages → Source** 使用 **GitHub Actions**。推送到 `main` 会通过 `.github/workflows/pages.yml` 自动部署。
+仓库名为 `zehuama-sysu.github.io`，默认分支为 `main`。GitHub 仓库 **Settings → Pages → Source** 使用 **GitHub Actions**。推送到 `main` 会通过 `.github/workflows/pages.yml` 自动部署。
 
 ## 内容来源与图片
 
