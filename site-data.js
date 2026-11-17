@@ -3,7 +3,7 @@ window.SITE_DATA = {
   translations: {
     en: {
       'nav.about':'About','nav.research':'Research','nav.papers':'Publications','nav.experience':'Experience',
-      'hero.eyebrow':'GENERATIVE AI · 3D VISION · VIDEO REASONING','hero.role':'M.S. Student at Sun Yat-sen University','hero.school':'School of Intelligent Systems Engineering','hero.cv':'Curriculum Vitae ↗','hero.location':'Shenzhen, China','hero.graduation':'Expected graduation',
+      'hero.eyebrow':'GENERATIVE AI · 3D VISION · VIDEO REASONING','hero.role':'M.S. Student at Sun Yat-sen University','hero.school':'School of Intelligent Systems Engineering','hero.location':'Shenzhen, China','hero.graduation':'Expected graduation',
       'research.kicker':'EXPLORING','research.title':'Research interests','news.kicker':'UPDATES','news.title':'Recent news','news.updated':'Updated October 2026',
       'papers.kicker':'SELECTED WORK','papers.title':'Publications & preprints','papers.all':'All','papers.first':'First author','papers.description':'* Equal contribution. My name is highlighted.',
       'experience.kicker':'ALONG THE WAY','experience.title':'Experience & education','experience.industry':'Industry research','experience.education':'Education','experience.toolkit':'Methods & tools',
@@ -38,7 +38,7 @@ window.SITE_DATA = {
     },
     zh: {
       'nav.about':'关于我','nav.research':'研究方向','nav.papers':'论文成果','nav.experience':'个人经历',
-      'hero.eyebrow':'生成式人工智能 · 三维视觉 · 视频推理','hero.role':'中山大学 · 硕士研究生','hero.school':'智能工程学院 · 导师：梁小丹教授','hero.cv':'个人简历 ↗','hero.location':'中国 · 深圳','hero.graduation':'预计毕业',
+      'hero.eyebrow':'生成式人工智能 · 三维视觉 · 视频推理','hero.role':'中山大学 · 硕士研究生','hero.school':'智能工程学院 · 导师：梁小丹教授','hero.location':'中国 · 深圳','hero.graduation':'预计毕业',
       'research.kicker':'研究探索','research.title':'研究方向','news.kicker':'近期动态','news.title':'最新消息','news.updated':'更新于 2026 年 10 月',
       'papers.kicker':'研究成果','papers.title':'论文与预印本','papers.all':'全部','papers.first':'第一作者','papers.description':'* 表示共同第一作者，姓名加粗标注。',
       'experience.kicker':'成长足迹','experience.title':'实习与教育经历','experience.industry':'研究实习','experience.education':'教育背景','experience.toolkit':'研究方法与技术',

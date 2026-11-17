@@ -10,8 +10,6 @@
 - `styles.css`：配色、排版和响应式布局。
 - `assets/portrait.webp`：个人照片。
 - `assets/papers/`：论文缩略图。
-- `assets/files/Zehua_Ma_CV.pdf`：公开版英文 CV，不包含手机号和出生日期。
-- `scripts/build_cv.py`：CV 生成源文件，更新后使用安装了 `reportlab` 的 Python 运行。
 
 论文 `first: true` 表示共同第一作者，`published: true` 表示已核实的正式发表，`accepted: true` 表示已接收。未正式确认的会议录用不写入主页。代码与项目链接仅使用已公开的地址。
 
